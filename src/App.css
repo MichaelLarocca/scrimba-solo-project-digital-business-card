@@ -1,7 +1,13 @@
 .ctn {
   border: 1px solid #333;
   margin: 50px auto;
-  width: 500px;
+  width: 317PX;
   border-radius: 15px;
-  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  box-shadow: 4px 4px 4px rgba(0,0,0,0.25);
+}
+
+img {
+  width: 317PX;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
