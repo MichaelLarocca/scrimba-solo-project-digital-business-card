@@ -7,10 +7,24 @@
   font-family: Inter, sans-serif;
 }
 
+/* Image */
 img {
   width: 317PX;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
+}
+
+#ctn-image p {
+  background-color:rgba(0,0,0,0.9);
+  margin-bottom: -25px; 
+  font-size: 9px;
+}
+
+#attribution {
+  position: relative;
+  bottom: 23px;
+  text-align: center;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
 
 /* Container for mid secion */
