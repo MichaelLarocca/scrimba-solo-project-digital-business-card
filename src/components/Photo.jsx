@@ -1,5 +1,6 @@
+import soloPhoto from '../img/Han-Solo.png'
 export default function Photo() {
     return (
-        <img src="..\img\Han-Solo.png"></img>
+        <img src={soloPhoto} ></img>
     );
 }
